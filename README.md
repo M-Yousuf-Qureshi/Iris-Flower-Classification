@@ -13,6 +13,6 @@ This project uses Machine Learning to predict the species of an Iris flower base
 
 # 🌸 Iris Flower Classification App
 ### 🔗 [[Live Demo - Click Here to Try the App!]
-[(https://www.google.com/url?q=https%3A%2F%2Firis-flower-classification-rtnq2dnw2innmfuevy5v3q.streamlit.app%2F)]
+[(https://iris-flower-classification-rtnq2dnw2innmfuevy5v3q.streamlit.app/)]
 
 This project uses Machine Learning to predict the species of an Iris flower based on its measurements. 
